@@ -113,7 +113,7 @@ _logging.getLogger("jupyter_client.session").setLevel(_logging.ERROR)
 # CONFIG
 # ============================================================================
 FOLDER_PATH   = "/content/drive/My Drive/Results/DataSet/"
-RESULTS_DIR   = "/content/drive/My Drive/Results_AMEND"
+RESULTS_DIR   = "/content/drive/My Drive/Results_AMEND/"
 
 # --- crash resume ----------------------------------------------------------
 RESUME        = True
